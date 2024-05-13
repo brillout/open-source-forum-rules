@@ -82,3 +82,7 @@ blockquote.quote::after {
   content: '\201D';
   padding-left: 2px;
 }
+
+span.emoji {
+  font-family: "emoji"
+}
