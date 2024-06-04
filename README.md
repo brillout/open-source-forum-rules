@@ -1,1 +1,1 @@
-[brillout.github.io/rules](https://brillout.github.io/rules/).
+[brillout.github.io/rules](https://brillout.github.io/rules/)
