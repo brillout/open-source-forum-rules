@@ -84,5 +84,5 @@ blockquote.quote::after {
 }
 
 span.emoji {
-  font-family: "emoji"
+  font-family: 'emoji';
 }
